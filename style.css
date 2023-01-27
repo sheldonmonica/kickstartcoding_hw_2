@@ -1,0 +1,52 @@
+/* Style Sheet*/
+
+.headertextlight{
+    font-family: "Robot", sans-serif;
+    font: #CEBFBA;
+}
+
+.headertextdark{
+    font-family: "Robot", sans-serif;
+    font: #28252B;
+}
+
+.bodytextlight{
+    font-family: "Poppins", sans-serif;
+    font: #CEBFBA;
+}
+
+.bodytextdark{
+    font-family: "Poppins", sans-serif;
+    font: #28252B;
+}
+
+.textbig{
+    font-size: larger;
+}
+
+body {
+    background: url('https://images.unsplash.com/photo-1517141772911-756dc840a94f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2230&q=80');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: hwb(212 93% 0%);
+}
+
+.resumeheader{
+    font-weight: bold;
+}
+
+/* Custom Colors:
+#28252B
+#5C5452
+#899EB3
+#B4BEC7
+#CEBFBA
+*/
